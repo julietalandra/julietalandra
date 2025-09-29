@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 ¡Hola! Soy Julieta  
 
-<!--
-**julietalandra/julietalandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora de Software**  
+🎓 Actualmente en segundo año de una **Tecnicatura en Desarrollo de Software**  
+📚 Aprendiendo continuamente por mi cuenta  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Sobre mí
+Me apasiona la **tecnología** y la **programación**, y disfruto asumir nuevos desafíos.  
+Busco crecer desarrollando tanto **habilidades técnicas** como **blandas**, aportando siempre **compromiso** y **creatividad** en todo lo que hago.  
+
+---
+
+### 🔧 Tech Stack
+- **Frontend:** HTML, CSS, Java Script.
+- **Backend:** Python, Java.
+- **Base de datos:** MySQL, MongoDB.
+- **Herramientas:** GitHub, VS Code, Android Studio.
+- **Áreas de interés:** Data Engineering, bases de datos, cloud computing, análisis de datos, IA, programación  
+
+---
+
+### 📫 Cómo contactarme
+- 📧 Email: landrajulieta2@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/julieta-landra/
+
+---
+
+⭐️ *“Aprender, crear y compartir”*
