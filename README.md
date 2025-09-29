@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy Julieta  
+<h1 align="center">👋 ¡Hola! Soy Julieta</h1>
 
 💻 **Desarrolladora de Software**  
 🎓 Actualmente en segundo año de una **Tecnicatura en Desarrollo de Software**  
