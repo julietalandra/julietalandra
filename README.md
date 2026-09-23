@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Julieta</h1>
+<h1 align="center">¡Hola! Soy Julieta</h1>
 
 💻 **Desarrolladora de Software**  
 🎓 Actualmente en tercer y último año de una **Tecnicatura en Desarrollo de Software**  
@@ -6,13 +6,13 @@
 
 ---
 
-### ✨ Sobre mí
+### Sobre mí
 Me apasiona la **tecnología** y la **programación**, y disfruto asumir nuevos desafíos.  
 Busco crecer desarrollando tanto **habilidades técnicas** como **blandas**, aportando siempre **compromiso** y **creatividad** en todo lo que hago.  
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 - **Frontend:** HTML, CSS, Java Script.
 - **Backend:** Python, Java.
 - **Base de datos:** MySQL, MongoDB.
@@ -21,7 +21,7 @@ Busco crecer desarrollando tanto **habilidades técnicas** como **blandas**, apo
 
 ---
 
-### 📫 Cómo contactarme
+### Cómo contactarme
 - 📧 Email: landrajulieta2@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/julieta-landra/
 
